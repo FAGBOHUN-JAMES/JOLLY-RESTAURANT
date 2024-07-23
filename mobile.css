@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+    color: #000;
+}
+body {
+
+}
+
+/* hero section*/
+.heading {
+    font-size: 0.9rem;
+}
+.logo {
+    display: none;
+}
+.nav {
+    display: none;
+}
+.food-items {
+    margin-top: 2rem;
+}
+.item-1 {
+    align-self: center;
+}
+.item-2 {
+    align-self: center;
+    padding-left: 5%;
+}
+.item-3 {
+    align-self: center;
+}
+/* why people choose us section */
+.q-ans div:nth-child(2) p {
+    font-size: 0.9rem;
+}
+.q-ans2 div:nth-child(2) p {
+    font-size: 0.9rem;
+}
+.q-ans3 div:nth-child(2) p {
+    font-size: 0.9rem;
+}
+

@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    list-style-type: none;
+    color: #000;
+    
+}
+/* hero section*/
+.hero div:nth-child(2) {
+    width: 80vw;
+}
+
+/* why people choose us section section*/
+
+.food {
+    flex: 1;
+    text-align: center;
+    
+}
+
+.food img {
+    width: 70vw;
+}
+.question {
+    flex: 1;
+}
+.question h2 {
+    font-size: 1.5rem;
+}
+
+/* Popular food*/
+.main-slide3 {
+    margin-top: 100px;
+}
+.main-slide3 .fav-head {
+    width: 80%;
+    text-align: center;
+    font-size: 0.9rem;
+}
+.fav-food1 {
+    min-height: 30vh;
+    max-width: 360px;
+    margin-left: 50px;
+}
+.fav-food2 {
+    min-height: 30vh;
+    max-width: 360px;
+    margin-left: 50px;
+}
+.fav-food3 {
+    min-height: 30vh;
+    max-width: 360px;
+    margin-left: 50px;
+}
